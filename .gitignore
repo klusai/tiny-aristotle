@@ -1,0 +1,10 @@
+# directories
+__pycache__/
+data/
+models/
+.trash/
+.venv/
+
+# files
+*.log
+
